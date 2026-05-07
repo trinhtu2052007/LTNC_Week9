@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Bai9.6" />
+        <module name="Bai9.5" />
+        <module name="Bai9.4" />
+        <module name="Bai9.3" />
+        <module name="maven-lab-01" />
+        <module name="Bai9.9" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
